@@ -1,1 +1,1 @@
-## Worker Java App - test
+## Worker Java App
